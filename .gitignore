@@ -1,3 +1,5 @@
 .vscode
 .idea
 .claude
+*.class
+*.jar

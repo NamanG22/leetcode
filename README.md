@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-This repository is a personal archive of LeetCode problems I solve over time. Each problem lives in its own folder (for example, `LC406/`, `LC2126/`) with a `Solution.java` file.
+Personal archive of LeetCode problems I solve over time. Each problem lives in its own folder.
 
 ## Purpose
 
@@ -17,8 +17,41 @@ I use this repo to track my LeetCode journey — the problems I attempt, the app
 
 ```
 LC<number>/
-  └── Solution.java
+  ├── Solution.java    # first attempt
+  ├── Solution1.java   # revisit / alternative approach (optional)
+  └── SolutionN.java   # further attempts if needed
 ```
+
+| File | Meaning |
+|------|---------|
+| `Solution.java` | First solution I wrote for the problem |
+| `Solution1.java`, `Solution2.java`, … | Later attempts — usually a different idea or an optimization |
+
+Folders are named `LC` + the LeetCode problem number (e.g. `LC1081` for problem 1081).
+
+Each `Solution*.java` is a standalone class with the LeetCode method and often a small `main` for quick local checks.
+
+## Problems
+
+| Folder | Problem | Notes |
+|--------|---------|-------|
+| [LC406](LC406/) | Queue Reconstruction by Height | |
+| [LC1081](LC1081/) | Smallest Subsequence of Distinct Characters | Daily — 19 Jul 2026 |
+| [LC2126](LC2126/) | Destroying Asteroids | Daily — 31 May 2026 |
+| [LC2144](LC2144/) | Minimum Cost of Buying Candies With Discount | Daily — 1 Jun 2026; `Solution1` = hash-array revisit |
+| [LC3633](LC3633/) | Earliest Finish Time for Land and Water Rides | Daily — 2 Jun 2026 |
+| [LC3635](LC3635/) | Earliest Finish Time for Land and Water Rides II | Daily — 3 Jun 2026; has `Solution1` |
+| [LC3751](LC3751/) | Total Waviness of Numbers in Range I | Daily — 3 Jun 2026; has `Solution1` |
+
+## How to run
+
+From any problem folder (example):
+
+```bash
+javac LC1081/Solution.java && java -cp LC1081 Solution
+```
+
+Or open the file and run `main` from your IDE.
 
 ## Disclaimer
 
