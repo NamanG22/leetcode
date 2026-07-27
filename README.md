@@ -38,6 +38,7 @@ Each `Solution*.java` is a standalone class with the LeetCode method and often a
 | [LC406](LC406/) | Queue Reconstruction by Height | |
 | [LC1081](LC1081/) | Smallest Subsequence of Distinct Characters | Daily — 19 Jul 2026 |
 | [LC1260](LC1260/) | Shift 2D Grid | Daily — 20 Jul 2026 |
+| [LC1464](LC1464/) | Maximum Product of Two Elements in an Array | Daily — 27 Jul 2026 |
 | [LC3499](LC3499/) | Maximize Active Section with Trade I | Daily — 21 Jul 2026; `Solution1` = single-pass zero-run handoff |
 | [LC2126](LC2126/) | Destroying Asteroids | Daily — 31 May 2026 |
 | [LC2144](LC2144/) | Minimum Cost of Buying Candies With Discount | Daily — 1 Jun 2026; `Solution1` = hash-array revisit |
