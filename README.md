@@ -48,6 +48,7 @@ Each `Solution*.java` is a standalone class with the LeetCode method and often a
 | [LC2144](LC2144/) | Minimum Cost of Buying Candies With Discount | Daily — 1 Jun 2026; `Solution1` = hash-array revisit |
 | [LC3532](LC3532/) | Path Existence Queries in a Graph I | Daily — 9 Jul 2026 |
 | [LC3633](LC3633/) | Earliest Finish Time for Land and Water Rides | Daily — 2 Jun 2026 |
+| [LC3731](LC3731/) | Find Missing Elements | Daily — 4 Aug 2026 |
 | [LC3635](LC3635/) | Earliest Finish Time for Land and Water Rides II | Daily — 3 Jun 2026; has `Solution1` |
 | [LC3751](LC3751/) | Total Waviness of Numbers in Range I | Daily — 3 Jun 2026; has `Solution1` |
 | [LC3867](LC3867/) | Sum of GCD of Formed Pairs | Daily — 16 Jul 2026 |
