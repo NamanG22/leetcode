@@ -2,6 +2,8 @@
 
 Personal archive of LeetCode problems I solve over time. Each problem lives in its own folder.
 
+**Profile:** [leetcode.com/u/_NovA](https://leetcode.com/u/_NovA/)
+
 ## Purpose
 
 I use this repo to track my LeetCode journey — the problems I attempt, the approaches I try, and how my thinking evolves. It is meant as a record of my own work, not as a polished reference library.
@@ -39,13 +41,14 @@ Each `Solution*.java` is a standalone class with the LeetCode method and often a
 | [LC486](LC486/) | Predict the Winner | Daily — 1 Aug 2026; `Solution1` = DP relative-score (inspired by LC1406) |
 | [LC877](LC877/) | Stone Game | Daily — 2 Aug 2026 |
 | [LC1081](LC1081/) | Smallest Subsequence of Distinct Characters | Daily — 19 Jul 2026 |
+| [LC1207](LC1207/) | Unique Number of Occurrences | Related practice to LC3731 (freq / presence hashing) |
 | [LC1260](LC1260/) | Shift 2D Grid | Daily — 20 Jul 2026 |
 | [LC1406](LC1406/) | Stone Game III | Daily — 3 Aug 2026; approach understood with ChatGPT, solution coded myself |
 | [LC1464](LC1464/) | Maximum Product of Two Elements in an Array | Daily — 27 Jul 2026 |
-| [LC3499](LC3499/) | Maximize Active Section with Trade I | Daily — 21 Jul 2026; `Solution1` = single-pass zero-run handoff |
-| [LC3517](LC3517/) | Smallest Palindromic Rearrangement I | Daily — 28 Jul 2026 |
 | [LC2126](LC2126/) | Destroying Asteroids | Daily — 31 May 2026 |
 | [LC2144](LC2144/) | Minimum Cost of Buying Candies With Discount | Daily — 1 Jun 2026; `Solution1` = hash-array revisit |
+| [LC3499](LC3499/) | Maximize Active Section with Trade I | Daily — 21 Jul 2026; `Solution1` = single-pass zero-run handoff |
+| [LC3517](LC3517/) | Smallest Palindromic Rearrangement I | Daily — 28 Jul 2026 |
 | [LC3532](LC3532/) | Path Existence Queries in a Graph I | Daily — 9 Jul 2026 |
 | [LC3633](LC3633/) | Earliest Finish Time for Land and Water Rides | Daily — 2 Jun 2026 |
 | [LC3635](LC3635/) | Earliest Finish Time for Land and Water Rides II | Daily — 3 Jun 2026; has `Solution1` |
