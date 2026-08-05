@@ -48,6 +48,7 @@ Each `Solution*.java` is a standalone class with the LeetCode method and often a
 | [LC2126](LC2126/) | Destroying Asteroids | Daily — 31 May 2026 |
 | [LC2144](LC2144/) | Minimum Cost of Buying Candies With Discount | Daily — 1 Jun 2026; `Solution1` = hash-array revisit |
 | [LC2685](LC2685/) | Count the Number of Complete Components | Daily — 11 Jul 2026 |
+| [LC3310](LC3310/) | Remove Methods From Project | Daily — 5 Aug 2026 |
 | [LC3499](LC3499/) | Maximize Active Section with Trade I | Daily — 21 Jul 2026; `Solution1` = single-pass zero-run handoff |
 | [LC3517](LC3517/) | Smallest Palindromic Rearrangement I | Daily — 28 Jul 2026 |
 | [LC3532](LC3532/) | Path Existence Queries in a Graph I | Daily — 9 Jul 2026 |
