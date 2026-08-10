@@ -45,6 +45,7 @@ Each `Solution*.java` is a standalone class with the LeetCode method and often a
 | [LC1260](LC1260/) | Shift 2D Grid | Daily — 20 Jul 2026 |
 | [LC1406](LC1406/) | Stone Game III | Daily — 3 Aug 2026; approach understood with ChatGPT, solution coded myself |
 | [LC1464](LC1464/) | Maximum Product of Two Elements in an Array | Daily — 27 Jul 2026 |
+| [LC1510](LC1510/) | Stone Game IV | Daily — 10 Aug 2026 |
 | [LC2126](LC2126/) | Destroying Asteroids | Daily — 31 May 2026 |
 | [LC2144](LC2144/) | Minimum Cost of Buying Candies With Discount | Daily — 1 Jun 2026; `Solution1` = hash-array revisit |
 | [LC2685](LC2685/) | Count the Number of Complete Components | Daily — 11 Jul 2026 |
