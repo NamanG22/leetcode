@@ -58,6 +58,7 @@ Each `Solution*.java` is a standalone class with the LeetCode method and often a
 | [LC3090](LC3090/) | Maximum Length Substring With Two Occurrences | Daily — 14 Aug 2026; related to LC2958 sliding-window freq |
 | [LC3310](LC3310/) | Remove Methods From Project | Daily — 5 Aug 2026; `Solution1` = array adj lists (faster than HashMap) |
 | [LC3345](LC3345/) | Smallest Divisible Digit Product I | Daily — 6 Aug 2026 |
+| [LC3471](LC3471/) | Find the Largest Almost Missing Integer | Daily — 18 Aug 2026 |
 | [LC3499](LC3499/) | Maximize Active Section with Trade I | Daily — 21 Jul 2026; `Solution1` = single-pass zero-run handoff |
 | [LC3517](LC3517/) | Smallest Palindromic Rearrangement I | Daily — 28 Jul 2026 |
 | [LC3532](LC3532/) | Path Existence Queries in a Graph I | Daily — 9 Jul 2026 |
