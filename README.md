@@ -43,6 +43,7 @@ Each `Solution*.java` is a standalone class with the LeetCode method and often a
 | [LC877](LC877/) | Stone Game | Daily — 2 Aug 2026 |
 | [LC1081](LC1081/) | Smallest Subsequence of Distinct Characters | Daily — 19 Jul 2026 |
 | [LC1207](LC1207/) | Unique Number of Occurrences | Related practice to LC3731 (freq / presence hashing) |
+| [LC1386](LC1386/) | Cinema Seat Allocation | Daily — 19 Aug 2026 |
 | [LC1260](LC1260/) | Shift 2D Grid | Daily — 20 Jul 2026 |
 | [LC1406](LC1406/) | Stone Game III | Daily — 3 Aug 2026; approach understood with ChatGPT, solution coded myself |
 | [LC1464](LC1464/) | Maximum Product of Two Elements in an Array | Daily — 27 Jul 2026 |
