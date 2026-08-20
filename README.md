@@ -56,6 +56,7 @@ Each `Solution*.java` is a standalone class with the LeetCode method and often a
 | [LC2685](LC2685/) | Count the Number of Complete Components | Daily — 11 Jul 2026 |
 | [LC2958](LC2958/) | Length of Longest Subarray With at Most K Frequency | Daily — 12 Aug 2026 |
 | [LC2996](LC2996/) | Smallest Missing Integer Greater Than Sequential Prefix Sum | Daily — 11 Aug 2026 |
+| [LC3069](LC3069/) | Distribute Elements Into Two Arrays I | Daily — 20 Aug 2026 |
 | [LC3090](LC3090/) | Maximum Length Substring With Two Occurrences | Daily — 14 Aug 2026; related to LC2958 sliding-window freq |
 | [LC3310](LC3310/) | Remove Methods From Project | Daily — 5 Aug 2026; `Solution1` = array adj lists (faster than HashMap) |
 | [LC3345](LC3345/) | Smallest Divisible Digit Product I | Daily — 6 Aug 2026 |
