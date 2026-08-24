@@ -50,6 +50,7 @@ Each `Solution*.java` is a standalone class with the LeetCode method and often a
 | [LC1260](LC1260/) | Shift 2D Grid | Daily — 20 Jul 2026 |
 | [LC1406](LC1406/) | Stone Game III | Daily — 3 Aug 2026; approach understood with ChatGPT, solution coded myself |
 | [LC1464](LC1464/) | Maximum Product of Two Elements in an Array | Daily — 27 Jul 2026 |
+| [LC1475](LC1475/) | Final Prices With a Special Discount in a Shop | Practice — monotonic stack (next smaller/equal) |
 | [LC1510](LC1510/) | Stone Game IV | Daily — 10 Aug 2026 |
 | [LC1563](LC1563/) | Stone Game V | Daily — 17 Aug 2026 |
 | [LC1872](LC1872/) | Stone Game VIII | Daily — 24 Aug 2026 |
