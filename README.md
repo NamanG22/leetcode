@@ -42,6 +42,7 @@ Each `Solution*.java` is a standalone class with the LeetCode method and often a
 | [LC486](LC486/) | Predict the Winner | Daily — 1 Aug 2026; `Solution1` = DP relative-score (inspired by LC1406) |
 | [LC496](LC496/) | Next Greater Element I | Practice (not a daily) |
 | [LC503](LC503/) | Next Greater Element II | Practice — circular monotonic stack (follow-up to LC496) |
+| [LC739](LC739/) | Daily Temperatures | Practice — monotonic stack (days until warmer) |
 | [LC877](LC877/) | Stone Game | Daily — 2 Aug 2026 |
 | [LC1081](LC1081/) | Smallest Subsequence of Distinct Characters | Daily — 19 Jul 2026 |
 | [LC1207](LC1207/) | Unique Number of Occurrences | Related practice to LC3731 (freq / presence hashing) |
