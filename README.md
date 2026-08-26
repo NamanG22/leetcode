@@ -59,6 +59,7 @@ Each `Solution*.java` is a standalone class with the LeetCode method and often a
 | [LC2213](LC2213/) | Longest Substring of One Repeating Character | Daily — 13 Aug 2026 |
 | [LC2615](LC2615/) | Sum of Distances | Practice (not a daily) |
 | [LC2685](LC2685/) | Count the Number of Complete Components | Daily — 11 Jul 2026 |
+| [LC2904](LC2904/) | Shortest and Lexicographically Smallest Beautiful String | Daily — 26 Aug 2026 |
 | [LC2958](LC2958/) | Length of Longest Subarray With at Most K Frequency | Daily — 12 Aug 2026 |
 | [LC2996](LC2996/) | Smallest Missing Integer Greater Than Sequential Prefix Sum | Daily — 11 Aug 2026 |
 | [LC3069](LC3069/) | Distribute Elements Into Two Arrays I | Daily — 20 Aug 2026 |
