@@ -74,6 +74,7 @@ Each `Solution*.java` is a standalone class with the LeetCode method and often a
 | [LC3633](LC3633/) | Earliest Finish Time for Land and Water Rides | Daily — 2 Jun 2026 |
 | [LC3635](LC3635/) | Earliest Finish Time for Land and Water Rides II | Daily — 3 Jun 2026; has `Solution1` |
 | [LC3718](LC3718/) | Smallest Missing Multiple of K | Daily — 25 Aug 2026 |
+| [LC3720](LC3720/) | Lexicographically Smallest Permutation Greater Than Target | Daily — 27 Aug 2026 |
 | [LC3731](LC3731/) | Find Missing Elements | Daily — 4 Aug 2026 |
 | [LC3751](LC3751/) | Total Waviness of Numbers in Range I | Daily — 3 Jun 2026; has `Solution1` |
 | [LC3754](LC3754/) | Concatenate Non-Zero Digits and Multiply by Sum I | Daily — 7 Jul 2026 |
