@@ -54,6 +54,7 @@ Each `Solution*.java` is a standalone class with the LeetCode method and often a
 | [LC1510](LC1510/) | Stone Game IV | Daily — 10 Aug 2026 |
 | [LC1563](LC1563/) | Stone Game V | Daily — 17 Aug 2026 |
 | [LC1872](LC1872/) | Stone Game VIII | Daily — 24 Aug 2026 |
+| [LC2058](LC2058/) | Find the Minimum and Maximum Number of Nodes Between Critical Points | Daily — 31 Aug 2026 |
 | [LC2091](LC2091/) | Removing Minimum and Maximum From Array | Daily — 30 Aug 2026 |
 | [LC2126](LC2126/) | Destroying Asteroids | Daily — 31 May 2026 |
 | [LC2144](LC2144/) | Minimum Cost of Buying Candies With Discount | Daily — 1 Jun 2026; `Solution1` = hash-array revisit |
