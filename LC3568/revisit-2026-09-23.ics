@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//LeetCode Practice//LC3568//EN
+BEGIN:VEVENT
+UID:lc3568-revisit-2026-09-23@leetcode-practice
+DTSTAMP:20260903T000000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Re-practice LC3568 — Minimum Moves to Clean the Classroom
+DESCRIPTION:Attempt from scratch without looking at LC3568/Solution.java\, then compare. Original: 1 Sep 2026 daily (ChatGPT help after a full day solo).
+END:VEVENT
+END:VCALENDAR
