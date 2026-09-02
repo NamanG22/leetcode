@@ -81,6 +81,7 @@ Each `Solution*.java` is a standalone class with the LeetCode method and often a
 | [LC3751](LC3751/) | Total Waviness of Numbers in Range I | Daily — 3 Jun 2026; has `Solution1` |
 | [LC3754](LC3754/) | Concatenate Non-Zero Digits and Multiply by Sum I | Daily — 7 Jul 2026 |
 | [LC3867](LC3867/) | Sum of GCD of Formed Pairs | Daily — 16 Jul 2026 |
+| [LC3875](LC3875/) | Construct Uniform Parity Array I | Daily — 2 Sep 2026 — brain teaser: always `true` |
 
 ## How to run
 
