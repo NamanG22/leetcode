@@ -72,6 +72,7 @@ Each `Solution*.java` is a standalone class with the LeetCode method and often a
 | [LC3499](LC3499/) | Maximize Active Section with Trade I | Daily — 21 Jul 2026; `Solution1` = single-pass zero-run handoff |
 | [LC3517](LC3517/) | Smallest Palindromic Rearrangement I | Daily — 28 Jul 2026 |
 | [LC3532](LC3532/) | Path Existence Queries in a Graph I | Daily — 9 Jul 2026 |
+| [LC3568](LC3568/) | Minimum Moves to Clean the Classroom | Daily — 1 Sep 2026; ChatGPT helped after a full day solo; revisit ~23 Sep 2026 |
 | [LC3622](LC3622/) | Check Divisibility by Digit Sum and Product | Daily — 22 Aug 2026 |
 | [LC3633](LC3633/) | Earliest Finish Time for Land and Water Rides | Daily — 2 Jun 2026 |
 | [LC3635](LC3635/) | Earliest Finish Time for Land and Water Rides II | Daily — 3 Jun 2026; has `Solution1` |
