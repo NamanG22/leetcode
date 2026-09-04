@@ -83,6 +83,7 @@ Each `Solution*.java` is a standalone class with the LeetCode method and often a
 | [LC3754](LC3754/) | Concatenate Non-Zero Digits and Multiply by Sum I | Daily — 7 Jul 2026 |
 | [LC3867](LC3867/) | Sum of GCD of Formed Pairs | Daily — 16 Jul 2026 |
 | [LC3875](LC3875/) | Construct Uniform Parity Array I | Daily — 2 Sep 2026 — brain teaser: always `true` |
+| [LC3876](LC3876/) | Construct Uniform Parity Array II | Daily — 3 Sep 2026 |
 | [LC3903](LC3903/) | Smallest Stable Index I | Daily — 4 Sep 2026 |
 
 ## How to run
