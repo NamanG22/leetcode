@@ -37,6 +37,7 @@ Each `Solution*.java` is a standalone class with the LeetCode method and often a
 
 | Folder | Problem | Notes |
 |--------|---------|-------|
+| [LC115](LC115/) | Distinct Subsequences | Daily — 6 Sep 2026; 2D DP from the end |
 | [LC316](LC316/) | Remove Duplicate Letters | Related to LC1081; `Solution1` = monotone stack — ChatGPT helped with logic, coded myself |
 | [LC406](LC406/) | Queue Reconstruction by Height | |
 | [LC486](LC486/) | Predict the Winner | Daily — 1 Aug 2026; `Solution1` = DP relative-score (inspired by LC1406) |
