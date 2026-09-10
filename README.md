@@ -61,6 +61,7 @@ Each `Solution*.java` is a standalone class with the LeetCode method and often a
 | [LC2126](LC2126/) | Destroying Asteroids | Daily — 31 May 2026 |
 | [LC2144](LC2144/) | Minimum Cost of Buying Candies With Discount | Daily — 1 Jun 2026; `Solution1` = hash-array revisit |
 | [LC2213](LC2213/) | Longest Substring of One Repeating Character | Daily — 13 Aug 2026 |
+| [LC2265](LC2265/) | Count Nodes Equal to Average of Subtree | Daily — 10 Sep 2026 |
 | [LC2615](LC2615/) | Sum of Distances | Practice (not a daily) |
 | [LC2685](LC2685/) | Count the Number of Complete Components | Daily — 11 Jul 2026 |
 | [LC2904](LC2904/) | Shortest and Lexicographically Smallest Beautiful String | Daily — 26 Aug 2026 |
