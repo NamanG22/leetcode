@@ -44,6 +44,7 @@ Each `Solution*.java` is a standalone class with the LeetCode method and often a
 | [LC496](LC496/) | Next Greater Element I | Practice (not a daily) |
 | [LC503](LC503/) | Next Greater Element II | Practice — circular monotonic stack (follow-up to LC496) |
 | [LC739](LC739/) | Daily Temperatures | Practice — monotonic stack; `Solution1` = hash-array from right |
+| [LC836](LC836/) | Rectangle Overlap | Daily — 14 Sep 2026 |
 | [LC877](LC877/) | Stone Game | Daily — 2 Aug 2026 |
 | [LC940](LC940/) | Distinct Subsequences II | Daily — 7 Sep 2026; related to LC115 |
 | [LC1081](LC1081/) | Smallest Subsequence of Distinct Characters | Daily — 19 Jul 2026 |
