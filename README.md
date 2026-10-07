@@ -38,6 +38,7 @@ Each `Solution*.java` is a standalone class with the LeetCode method and often a
 | Folder | Problem | Notes |
 |--------|---------|-------|
 | [LC49](LC49/) | Group Anagrams | Practice / revisit — sort chars as key, map to group index |
+| [LC76](LC76/) | Minimum Window Substring | Practice / revisit — sliding window; 52-slot freq for upper/lower |
 | [LC115](LC115/) | Distinct Subsequences | Daily — 6 Sep 2026; 2D DP from the end |
 | [LC316](LC316/) | Remove Duplicate Letters | Related to LC1081; `Solution1` = monotone stack — ChatGPT helped with logic, coded myself |
 | [LC406](LC406/) | Queue Reconstruction by Height | |
